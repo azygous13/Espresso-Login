@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Expresso Login</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_login">Login</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_login_failed">Your email or password was incorrect. Please try again.</string>
+    <string name="login_successfully">Login successfully.</string>
+</resources>
